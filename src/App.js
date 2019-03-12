@@ -46,10 +46,10 @@ class App extends Component {
                   <div className="pure-control-group">
                     <label htmlFor="email">Email</label> 
                     <input id="email" type="email" name="email" value=""  />                  
-                  </div>
+                  </div>                
                   <div className="pure-control-group">
                     <label htmlFor="senha">Senha</label> 
-                    <input id="senha" type="password" name="senha"  />                                      
+                    <input id="senha" type="password" name="senha"  />
                   </div>
                   <div className="pure-control-group">                                  
                     <label></label> 
